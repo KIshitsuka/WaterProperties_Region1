@@ -1,7 +1,7 @@
 # WaterProperties_Region1
 Program to calculate pure water density, heat capacity, and viscosity based on Region 1 of The IAPWS Industrial formulation 1997 (IAPWS-IF97)
 
-Region 1 of IAPWS-IF97 covers 273.15 K ≦ T ≦ 623.15 K, Ps(T) ≦ P ≦ 100 MPa, where Ps(T) indicate saturation pressure as a function of temperature.
+Region 1 of IAPWS-IF97 covers the temperature (T) and pressure (P) range of 273.15 K ≦ T ≦ 623.15 K and Ps(T) ≦ P ≦ 100 MPa, where Ps(T) indicates saturation pressure as a function of temperature.
 ![PureWaterProp_5 10MPa](https://github.com/user-attachments/assets/40afac88-4839-4896-983b-dbca05458d25)
 
 ## References
